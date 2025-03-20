@@ -1,0 +1,76 @@
+## AlterWare Security
+We take security very seriously at AlterWare. We welcome any peer review of our 100% free software source code to ensure no user is ever compromised or hacked.
+
+### Where should I report security issues?
+
+In order to give the community time to respond and upgrade we strongly urge you report all security issues privately.
+Please e-mail alterware@proton.me directly to provide details and repro steps.
+
+### GPG Public Key
+
+You can find our GPG public key below:
+
+<details>
+<summary>GPG Key</summary>
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+uLZwwnXUhSkWF51yKR9ZSbJjIg==
+=A18+
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+</details>
+
+We will try respond as soon as possible, but please note:
+
+### This is an entirely free software project. It is maintained in our spare time.
+### We cannot guarantee quick responses but we very much appreciate your discretion when reporting security vulnerabilities.
